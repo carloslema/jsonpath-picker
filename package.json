@@ -35,7 +35,7 @@
     "@babel/core": "^7.5.4",
     "@babel/preset-env": "^7.5.4",
     "browserify": "^16.3.0",
-    "uglify-js": "^3.6.0",
+    "uglify-js": "^3.7.1",
     "uglifycss": "0.0.29"
   }
 }
